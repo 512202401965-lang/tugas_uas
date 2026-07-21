@@ -1,0 +1,13 @@
+defect_id,product_id,defect_type,defect_date,defect_location,severity,inspection_method,repair_cost
+1,P001,Cosmetic,2026-07-01,Surface,Minor,Visual Inspection,45
+2,P002,Functional,2026-07-02,Internal,Critical,Automated Testing,950
+3,P003,Structural,2026-07-03,Component,Moderate,Manual Testing,320
+4,P004,Cosmetic,2026-07-04,Surface,Minor,Visual Inspection,60
+5,P005,Functional,2026-07-05,Internal,Critical,Automated Testing,1100
+6,P006,Structural,2026-07-06,Component,Moderate,Manual Testing,280
+7,P007,Cosmetic,2026-07-07,Surface,Minor,Visual Inspection,55
+8,P008,Functional,2026-07-08,Internal,Critical,Automated Testing,890
+9,P009,Structural,2026-07-09,Component,Moderate,Manual Testing,400
+10,P010,Cosmetic,2026-07-10,Surface,Minor,Visual Inspection,70
+11,P011,Functional,2026-07-11,Internal,Critical,Automated Testing,1050
+12,P012,Structural,2026-07-12,Component,Moderate,Manual Testing,350
